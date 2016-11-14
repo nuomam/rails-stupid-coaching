@@ -13,13 +13,3 @@ class CoachingController < ApplicationController
   def ask
   end
 end
-
-
-
-  # if answer.downcase == "i am going to work right now!"
-  #   ''
-  # elsif answer.end_with?("?")
-  #   "Silly question, get dressed and go to work!"
-  # else
-  #   "I don't care, get dressed and go to work!"
-  # end
